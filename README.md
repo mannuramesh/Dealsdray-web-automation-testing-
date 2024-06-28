@@ -25,4 +25,4 @@ Ensure that Python is added to your system PATH during installation.
 Ensure you have all Three browsers like chrome, firefox and safari, it is suitable to run this automation in mac os system
 
 ### Requirements
-``` pip install selenium xlwt
+```pip install selenium xlwt
